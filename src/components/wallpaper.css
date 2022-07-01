@@ -1,0 +1,25 @@
+.Wallpaper{
+ /* width: 3000px;
+ height: 100%; */
+ /* display: flex; */
+ /* justify-content: center;
+ align-items: center; */
+ position: absolute; 
+ top:70px;
+}
+h2 {
+    font-family: 'Playfair Display', serif;
+    position: absolute; 
+    top: 450px; 
+    left: 100px;  
+    color: #ffffff;
+    font-size: 50px;
+}
+h3 {
+    font-family: 'Playfair Display', serif;
+    position: absolute; 
+    top: 530px; 
+    left: 100px;  
+    color: #ffffff;
+    font-size: 20px;
+}

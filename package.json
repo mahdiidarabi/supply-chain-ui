@@ -1,0 +1,69 @@
+{
+  "name": "react-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@coreui/coreui": "^2.1.9",
+    "@coreui/coreui-plugin-chartjs-custom-tooltips": "^1.3.0",
+    "@material-ui/icons": "^3.0.2",
+    "@ng-bootstrap/ng-bootstrap": "^4.1.1",
+    "@trendmicro/react-sidenav": "^0.4.5",
+    "@version/react-router-v3": "^1.0.0",
+    "antd": "^3.16.6",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "clsx": "^1.0.4",
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "http-proxy-middleware": "^0.19.1",
+    "jalali-moment": "^3.3.3",
+    "material-ui": "^0.20.2",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "mdbreact": "^4.13.0",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.8",
+    "react-cool-tabs": "^1.1.6",
+    "react-dom": "^16.8.4",
+    "react-fitted-image": "^0.1.4",
+    "react-icons": "^3.6.1",
+    "react-recaptcha-google": "^1.1.1",
+    "react-redux": "^6.0.1",
+    "react-reveal": "^1.2.2",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.5",
+    "react-scrollreveal": "^1.2.0",
+    "react-sticky": "^6.0.3",
+    "react-waypoint": "^9.0.2",
+    "reactstrap": "^8.0.0",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.86.0",
+    "validator": "^10.11.0",
+    "wow.js": "^1.2.2",
+    "wowjs": "^1.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "gulp-changed": "^3.2.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2"
+  }
+}
